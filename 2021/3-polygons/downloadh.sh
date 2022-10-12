@@ -1,0 +1,1 @@
+curl 'https://maps.communities.gov.uk/geoserver/dclg_inspire/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=dclg_inspire%3AEngland_Green_Belt_2019-20_WGS84&outputFormat=GML3' > green-belt.gml
